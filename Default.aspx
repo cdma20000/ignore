@@ -1,4 +1,1 @@
-<%@ Page Language="C#"%>
-<%
-	Response.Redirect("/View/View.html");
-%>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="WCM.Default" %>
